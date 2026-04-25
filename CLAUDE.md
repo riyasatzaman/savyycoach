@@ -109,7 +109,7 @@ If a prompt asks for something on the "NOT in V1" list, push back and ask the us
 
 Update this section as phases complete.
 
-- [ ] **Phase 1:** Project skeleton + 4 routes static
+- [x] **Phase 1:** Project skeleton + 4 routes static
 - [ ] **Phase 2:** Input layer (UI only, no API)
 - [ ] **Phase 3a:** Prompt eval harness + analyze prompt
 - [ ] **Phase 3b:** `/api/analyze` endpoint
